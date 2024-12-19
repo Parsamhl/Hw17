@@ -193,4 +193,129 @@ body {
     font-weight: bold;
     color: #555;
 }
+#fourp {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
 
+#fourp a img {
+    height: 241px;
+    width: 322px;
+}
+
+#onep a img {
+    height: 180px;
+    width: 1336px;
+}
+
+#twop a img {
+    height: 241px;
+    width: 660px;
+}
+
+.product-section {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+}
+
+.product-title {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+}
+
+.product-subtitle {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.product-images img {
+    width: 100%;
+    max-width: 120px;
+    height: auto;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.view-more {
+    color: #00a5e0;
+    font-weight: bold;
+    font-size: 0.9rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.view-more:hover {
+    text-decoration: underline;
+}
+
+#brand div {
+    border-left: 1px solid rgb(223, 217, 217);
+    padding: 10px;
+    padding-left: 20px;
+}
+
+#brand div a img {
+    height: 120px;
+    width: 130px;
+}
+
+.more-link {
+    color: #00b2ff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.more-link:hover {
+    cursor: pointer;
+}
+
+body
+{
+    overflow-x: hidden;
+    font-family: Vazirmatn, sans-serif;
+}
+.view-all:hover {
+    cursor: pointer;
+ }
+ .product-item:hover
+{
+cursor: pointer;
+}
+
+.footer {
+    padding: 40px 0;
+   
+}
+.footer-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #000;
+}
+.footer a {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.footer-icons div {
+    text-align: center;
+}
+.footer-icons img {
+    width: 40px;
+    margin-bottom: 8px;
+}
